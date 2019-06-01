@@ -1,5 +1,5 @@
 ---
-templateKey: about
+templateKey: about-page
 title: FAQ
 ---
 ### Will using RuneLite get me banned?
