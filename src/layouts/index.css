@@ -13,6 +13,13 @@ a:hover, a:active {
     display: block;
     line-height: 80px;
 }
+.jss126 {
+    color: rgba(0, 0, 0, 0.54);
+    font-size: 0.75rem;
+    font-weight: 400;
+    font-family: "Open Sans", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.375em;
+}
 .jss134 {
     color: rgba(0, 0, 0, 0.54);
     font-size: 0.75rem;
