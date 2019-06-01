@@ -9,3 +9,10 @@ a:hover, a:active {
   cursor: pointer;
   color: inherit;
 }
+.jss134 {
+    color: rgba(0, 0, 0, 0.54);
+    font-size: 0.75rem;
+    font-weight: 400;
+    font-family: "Open Sans", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.375em;
+}
