@@ -4,8 +4,8 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Procyon',
-    shortName: 'Procyon',
+    title: 'Runelite',
+    shortName: 'Runelite',
     description:
       'An opinionated Gatsby starter designed for trash-eating pandas.',
   },
