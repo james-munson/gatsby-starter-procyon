@@ -1,6 +1,6 @@
 ---
 templateKey: about-runelite
-title: About Runelite
+title: FAQ
 ---
 ### Will using RuneLite get me banned?
 No.
