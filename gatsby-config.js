@@ -7,7 +7,7 @@ module.exports = {
     title: 'Runelite',
     shortName: 'Runelite',
     description:
-      'An opinionated Gatsby starter designed for trash-eating pandas.',
+      'Download our runelite client, it owns runelite.',
   },
   plugins: [
     'gatsby-plugin-react-next',
